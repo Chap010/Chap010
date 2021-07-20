@@ -11,4 +11,4 @@
 😄 noob on high caliber programming 
 
 ![Profile views](https://gpvc.arturio.dev/chapit10)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chapito10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chap010)](https://github.com/anuraghazra/github-readme-stats)
