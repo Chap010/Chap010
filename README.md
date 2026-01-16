@@ -1,25 +1,56 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ff9c&height=180&section=header&text=Chap010&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Chap010/Chap010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-👋 Hi, I’m @Chap010
-👀 I’m interested in CyberSec Mainly I spend my time learning IT and pentesting
-🌱 I’m currently learning how to program on c# and python one of my favorites languages
-🔭 I’m currently working on a Fitness application
-👯 I’m looking to collaborate on Youtube
-😄 noob on high caliber programming 
+<h2 align="center">👋 Hi, I'm Chap010</h2>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=820&lines=Cybersecurity+%7C+Pentesting+%7C+Automation;Python+%7C+C%23+Developer;Security-Minded+Builder;Currently+Building%3A+Fitness+App+%26+Pentesting+Tools"
+    alt="typing intro"
+  />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chap010&label=Profile%20views&color=0e75b6&style=flat" alt="chap010" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=chap010&label=Profile%20Views&color=00ff9c&style=flat"
+    alt="profile views"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chap010&show_icons=true&locale=en&layout=compact" alt="chap010" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="cybersecurity" />
+  <img src="https://img.shields.io/badge/Pentesting-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="pentesting" />
+  <img src="https://img.shields.io/badge/Python-Automation-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="python automation" />
+  <img src="https://img.shields.io/badge/C%23-Development-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF9C" alt="csharp development" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chap010&" alt="chap010" /></p>
+---
 
+## 🧑‍💻 About Me
 
+🔐 **Cybersecurity / IT (Pentesting-focused)**  
+💻 Building tools with **Python** and **C#**  
+🧠 Learning through labs, scripting, automation, and secure design  
+🏋️ Currently building a **Fitness Application** + **Pentesting Automation Tools**
 
+---
 
+## 🧠 Terminal Snapshot
 
+```bash
+$ whoami
+chap010
+
+$ focus
+cybersecurity | pentesting | automation
+
+$ languages
+python csharp javascript
+
+$ currently_building
+fitness_app
+pentesting_automation_tools
+
+$ status
+learning && building && improving
